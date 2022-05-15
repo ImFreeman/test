@@ -1,0 +1,27 @@
+﻿  test2.cpp
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(208,39): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(209,46): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(209,27): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(219,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(219,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(220,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(220,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(230,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(230,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(231,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(231,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(241,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(241,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(242,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(242,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(252,68): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(252,48): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(253,74): warning C4244: аргумент: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(253,54): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\test2\test2.cpp(147,14): warning C4101: apt: неиспользованная локальная переменная
+  Создание кода
+  19 of 19 functions (100.0%) were compiled.
+    15 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  test2.vcxproj -> C:\Users\imawa\Desktop\тгу\системное\Sistem-programming-main\931901 Koshkarova Nina.lab3\x64\Release\test2.exe
